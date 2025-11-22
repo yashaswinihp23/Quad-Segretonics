@@ -1,7 +1,7 @@
 # Quad Segretronics
 
 **Live Project:**  
-https://shivarajhiremath8.github.io/mainproject/](https://yashaswinihp23.github.io/Quad-Segretonics/
+https://yashaswinihp23.github.io/Quad-Segretonics/
 
 ---
 
