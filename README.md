@@ -1,42 +1,42 @@
-Live Demo
-https://shivarajhiremath8.github.io/mainproject/
+# Quad Segretronics
 
-🌍 System Summary
-EcoSense QuadTech is an intelligent waste-management ecosystem powered by AI, IoT sensors, and cloud-based analytics. The platform transforms how waste is monitored and collected by automating segregation, predicting bin status, and enabling smarter logistics. It minimizes manual effort, cuts transportation costs, and supports greener city operations through data-driven insights and real-time visibility.
+**Live Project:**  
+https://shivarajhiremath8.github.io/mainproject/](https://yashaswinihp23.github.io/Quad-Segretonics/
 
-📄 Research Reference
-Paper Link: https://ijsrem.com/download/quad-segretronics-iot-powered-waste-segregation-system-with-gps-and-reverse-vending-applications/#1665240799663-79435e7a-2017
+---
 
-✨ Key Capabilities
+## 📌 Overview
+Quad-Segretronics is an intelligent waste-management platform that combines AI, IoT sensing, and cloud-driven analytics to modernize how waste is tracked, sorted, and collected. The system continuously monitors bin conditions, predicts collection needs, and improves operational workflows. By optimizing routes and automating waste identification, it supports cleaner environments and cost-efficient waste handling.
 
-1️⃣ Automated Waste Identification
-AI-powered visual recognition classifies waste materials with high accuracy, ensuring proper segregation at the source.
+**Research Paper:**  
+https://ijsrem.com/download/quad-segretronics-iot-powered-waste-segregation-system-with-gps-and-reverse-vending-applications/#1665240799663-79435e7a-2017
 
-2️⃣ Live Monitoring Interface
-A clean and interactive dashboard displays bin activity, collection updates, geographic locations, and performance indicators.
+---
 
-3️⃣ Smart IoT Integration
-Ultrasonic and proximity sensors track bin fill levels, temperature, and waste category to trigger timely pickups.
+## ✨ Features
+- **AI-Driven Segregation** – Image-based waste recognition for automated sorting.  
+- **Live Monitoring Dashboard** – Real-time view of bin statuses, metrics, and collection insights.  
+- **IoT-Enabled Detection** – Smart sensors track waste type, fill levels, and trigger alerts.  
+- **Visual Analytics & Mapping** – Charts, graphs, and map layers to understand usage patterns.  
+- **Environment-Focused Optimization** – Smarter routes reduce fuel, time, and carbon impact.  
 
-4️⃣ Deep Analytics & Reports
-The system features data charts, heat-maps, and trend insights to support planning and operational decision-making.
+---
 
-5️⃣ Carbon-Conscious Routing
-Optimized route mapping helps reduce fuel usage and emission levels, supporting sustainable city goals.
+## 🛠️ Tech Stack
+- **Frontend:** HTML, Tailwind CSS, JavaScript  
+- **APIs:** Google Maps API for geolocation and mapping  
+- **AI/ML:** Image classification to identify waste categories  
+- **Deployment:** Static, mobile-responsive web interface  
 
-🧑‍💻 Technology Overview
+---
 
-UI Layer: HTML, TailwindCSS, Vanilla JavaScript
-Map Services: Google Maps API
-AI Components: Image classification models for detecting waste categories
-Hosting: Lightweight static deployment with mobile-first design principles
+## 📁 Project Structure
+- `index.html` — Main landing page introducing the platform  
+- `about.html` — Detailed system background and objectives  
+- `blog.html` — Updates, articles, and project-related posts  
+- `contact.html` — Communication details and contact form  
+- `dashboard/dashboard.html` — Real-time IoT monitoring UI  
+- `dashboard/dashboard.js` — Core logic for dashboard visuals  
+- `assets/` — Images, icons, clips, and static media  
 
-📂 Folder Breakdown
-
-index.html – Landing page with system highlights and introductory sections
-about.html – Background, purpose, and objectives of the platform
-blog.html – Updates, articles, and relevant news entries
-contact.html – Reach-out form and communication details
-dashboard/dashboard.html – Real-time monitoring console
-dashboard/dashboard.js – Logic for graphs, sensors, and map operations
-assets/ – Images, icons, clips, and supporting media
+---
